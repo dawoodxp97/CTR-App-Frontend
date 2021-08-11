@@ -8,10 +8,12 @@ CTR Chat Application is a Full Stack Chat Application (MERN) with complete funct
 
   <a href="https://ctr-chat.web.app/"> Live Demo </a>
 </div>
+
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" /> <img src="https://img.shields.io/badge/maintainer-dawoodxp97-blue" /> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img src="https://img.shields.io/badge/Made%20With-Love-orange.svg" />
 </div>
+<h3>Backend Repo <a href="https://github.com/dawoodxp97/CTR-App-Backend/tree/main"> Link </a> </h3>
 <br>
 
 # Tech Stack:
